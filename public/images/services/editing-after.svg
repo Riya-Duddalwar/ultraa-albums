@@ -1,0 +1,32 @@
+<svg width="960" height="680" viewBox="0 0 960 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_AFTER_RETOUCH" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAD5D2" />
+      <stop offset="50%" stop-color="#F8F5F0" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <pattern id="grid_AFTER_RETOUCH" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#353535" stroke-width="0.5" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="680" fill="url(#grad_AFTER_RETOUCH)"/>
+  <rect width="960" height="680" fill="url(#grid_AFTER_RETOUCH)"/>
+
+  <rect x="36" y="36" width="888" height="608" rx="4" fill="none" stroke="#353535" stroke-opacity="0.12" stroke-width="1"/>
+  <rect x="44" y="44" width="872" height="592" rx="2" fill="none" stroke="#353535" stroke-opacity="0.06" stroke-width="1"/>
+
+  <rect x="260" y="190" width="440" height="300" rx="6" fill="#FFFFFF" stroke="#353535" stroke-width="2"/>
+    <circle cx="480" cy="310" r="60" fill="#EAD5D2" opacity="0.85"/>
+    <path d="M300 450 Q 420 320, 480 360 T 660 420" fill="none" stroke="#353535" stroke-width="2.5"/>
+    <text x="320" y="240" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#353535" letter-spacing="2">STUDIO COLOR GRADED</text>
+    <text x="320" y="260" font-family="'Inter', sans-serif" font-size="10" fill="#77716C">Frequency separation · Natural skin warmth · Pro contrast</text>
+
+  <!-- Header text -->
+  <text x="480" y="115" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#77716C" text-anchor="middle" letter-spacing="4" text-transform="uppercase">AFTER RETOUCH</text>
+  <text x="480" y="155" font-family="'Playfair Display', Georgia, serif" font-size="30" font-weight="500" fill="#353535" text-anchor="middle">Master Retouched & Graded (After)</text>
+
+  <!-- Footer text -->
+  <text x="480" y="555" font-family="'Inter', sans-serif" font-size="13" font-weight="400" fill="#77716C" text-anchor="middle" letter-spacing="1">Clean luminous skin, true Fuji color tones, pristine highlights</text>
+  <text x="480" y="585" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#353535" text-anchor="middle" letter-spacing="3" opacity="0.6">ULTRAA ALBUMS · EST. 2012 MUMBAI</text>
+</svg>

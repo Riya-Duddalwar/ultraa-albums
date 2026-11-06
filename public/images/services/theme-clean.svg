@@ -1,0 +1,34 @@
+<svg width="960" height="680" viewBox="0 0 960 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_THEME_02" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DCE6EF" />
+      <stop offset="50%" stop-color="#F8F5F0" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <pattern id="grid_THEME_02" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#353535" stroke-width="0.5" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="680" fill="url(#grad_THEME_02)"/>
+  <rect width="960" height="680" fill="url(#grid_THEME_02)"/>
+
+  <rect x="36" y="36" width="888" height="608" rx="4" fill="none" stroke="#353535" stroke-opacity="0.12" stroke-width="1"/>
+  <rect x="44" y="44" width="872" height="592" rx="2" fill="none" stroke="#353535" stroke-opacity="0.06" stroke-width="1"/>
+
+  <rect x="280" y="210" width="400" height="260" rx="4" fill="#FFFFFF" stroke="#353535" stroke-width="2"/>
+    <line x1="480" y1="210" x2="480" y2="470" stroke="#EAD5D2" stroke-width="2"/>
+    <rect x="300" y="230" width="160" height="130" fill="#FFFFFF" opacity="0.4" rx="2"/>
+    <rect x="300" y="380" width="160" height="70" fill="#FFFFFF" opacity="0.25" rx="2"/>
+    <rect x="500" y="230" width="160" height="220" fill="#DCE6EF" opacity="0.35" rx="2"/>
+    <circle cx="580" cy="340" r="30" fill="#FFFFFF" opacity="0.8"/>
+    <path d="M565 340 L595 340 M580 325 L580 355" stroke="#353535" stroke-width="1.5"/>
+
+  <!-- Header text -->
+  <text x="480" y="115" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#77716C" text-anchor="middle" letter-spacing="4" text-transform="uppercase">THEME 02</text>
+  <text x="480" y="155" font-family="'Playfair Display', Georgia, serif" font-size="30" font-weight="500" fill="#353535" text-anchor="middle">Clean Design Theme</text>
+
+  <!-- Footer text -->
+  <text x="480" y="555" font-family="'Inter', sans-serif" font-size="13" font-weight="400" fill="#77716C" text-anchor="middle" letter-spacing="1">Minimalist whitespace with generous negative space</text>
+  <text x="480" y="585" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#353535" text-anchor="middle" letter-spacing="3" opacity="0.6">ULTRAA ALBUMS · EST. 2012 MUMBAI</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="960" height="680" viewBox="0 0 960 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_STUDIO_GIFTS" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0E5D8" />
+      <stop offset="50%" stop-color="#F8F5F0" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <pattern id="grid_STUDIO_GIFTS" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#353535" stroke-width="0.5" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="680" fill="url(#grad_STUDIO_GIFTS)"/>
+  <rect width="960" height="680" fill="url(#grid_STUDIO_GIFTS)"/>
+
+  <rect x="36" y="36" width="888" height="608" rx="4" fill="none" stroke="#353535" stroke-opacity="0.12" stroke-width="1"/>
+  <rect x="44" y="44" width="872" height="592" rx="2" fill="none" stroke="#353535" stroke-opacity="0.06" stroke-width="1"/>
+
+  <rect x="300" y="200" width="360" height="280" rx="8" fill="#FFFFFF" stroke="#353535" stroke-width="2"/>
+    <line x1="480" y1="200" x2="480" y2="480" stroke="#353535" stroke-width="1.5" stroke-dasharray="6 6"/>
+    <rect x="320" y="220" width="135" height="110" rx="4" fill="#FFFFFF" opacity="0.4" stroke="#77716C" stroke-width="1"/>
+    <rect x="320" y="345" width="135" height="110" rx="4" fill="#FFFFFF" opacity="0.4" stroke="#77716C" stroke-width="1"/>
+    <rect x="505" y="220" width="135" height="110" rx="4" fill="#FFFFFF" opacity="0.4" stroke="#77716C" stroke-width="1"/>
+    <rect x="505" y="345" width="135" height="110" rx="4" fill="#FFFFFF" opacity="0.4" stroke="#77716C" stroke-width="1"/>
+
+  <!-- Header text -->
+  <text x="480" y="115" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#77716C" text-anchor="middle" letter-spacing="4" text-transform="uppercase">STUDIO GIFTS</text>
+  <text x="480" y="155" font-family="'Playfair Display', Georgia, serif" font-size="30" font-weight="500" fill="#353535" text-anchor="middle">Low-Cost Gift Albums for Photo Labs</text>
+
+  <!-- Footer text -->
+  <text x="480" y="555" font-family="'Inter', sans-serif" font-size="13" font-weight="400" fill="#77716C" text-anchor="middle" letter-spacing="1">Lab branding on covers as elegant customer gifts</text>
+  <text x="480" y="585" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#353535" text-anchor="middle" letter-spacing="3" opacity="0.6">ULTRAA ALBUMS · HANDCRAFTED IN MUMBAI</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="960" height="680" viewBox="0 0 960 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DCE6EF" />
+      <stop offset="50%" stop-color="#F8F5F0" />
+      <stop offset="100%" stop-color="#E7E0EF" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#353535" stroke-width="0.5" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="680" fill="url(#grad)"/>
+  <rect width="960" height="680" fill="url(#grid)"/>
+
+  <rect x="36" y="36" width="888" height="608" rx="4" fill="none" stroke="#353535" stroke-opacity="0.12" stroke-width="1"/>
+  <rect x="44" y="44" width="872" height="592" rx="2" fill="none" stroke="#353535" stroke-opacity="0.06" stroke-width="1"/>
+
+  <rect x="280" y="200" width="400" height="280" rx="8" fill="#FFFFFF" stroke="#353535" stroke-width="2"/>
+    <rect x="300" y="220" width="360" height="240" fill="#E7E0EF" opacity="0.35" rx="4"/>
+    <circle cx="480" cy="320" r="40" fill="#DCE6EF" opacity="0.6"/>
+    <path d="M310 440 Q 420 360, 480 400 T 650 430" fill="none" stroke="#77716C" stroke-width="2"/>
+
+  <!-- Header text -->
+  <text x="480" y="120" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#77716C" text-anchor="middle" letter-spacing="4" text-transform="uppercase">BABY ALBUMS</text>
+  <text x="480" y="160" font-family="'Playfair Display', Georgia, serif" font-size="32" font-weight="500" fill="#353535" text-anchor="middle">First Milestones & Joy</text>
+
+  <!-- Footer text -->
+  <text x="480" y="550" font-family="'Inter', sans-serif" font-size="13" font-weight="400" fill="#77716C" text-anchor="middle" letter-spacing="1">Newborn Portrait Book in Pastel Powder Blue Linen</text>
+  <text x="480" y="580" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#353535" text-anchor="middle" letter-spacing="3" opacity="0.6">ULTRAA ALBUMS · HANDCRAFTED IN MUMBAI</text>
+</svg>
